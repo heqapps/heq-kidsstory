@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # سياسة الخصوصية — HEQ KidsStory
 _آخر تحديث: 17 نوفمبر 2026_
 
@@ -33,6 +35,9 @@ HEQ KidsStory تطبيق للأطفال، وخصوصيتهم أولويتنا.
 
 ## 7. التواصل
 info@heqwerdk.com • https://heqwerdk.com
+
+
+</div>
 
 ---
 
